@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+﻿<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<title>صفحه ثبت نام کاربر</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Custom Theme files -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- //Custom Theme files -->
 
-You can use the [editor on GitHub](https://github.com/MehdiMalek/mehdimalek.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MehdiMalek/mehdimalek.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</head>
+<body>
+	<!-- main -->
+	<div class="karbarwp wrapper">
+		<h1>فرم عضویت در سایت</h1>
+		<div class="main-agileinfo">
+			<div class="agileits-top">
+				<form action="#" method="post">
+					<input class="text" type="text" name="Username" placeholder="نام کاربری" required="">
+					<input class="text email" type="email" name="email" placeholder="ایمیل" required="">
+					<input class="text" type="password" name="password" placeholder="رمز عبور" required="">
+					<input class="text w3lpass" type="password" name="password" placeholder="رمز عبور مجدد" required="">
+					<div class="wthree-text">
+						<label class="anim">
+							<input type="checkbox" class="checkbox" required="">
+							<span>شرایط و قوانین سایت را مطالعه کرده و قبول می کنم.</span>
+						</label>
+						<div class="clear"> </div>
+					</div>
+					<input type="submit" value="ثبت">
+				</form>
+				<p>حساب کاربری دارید؟ <a href="#"> وارد شوید</a></p>
+			</div>
+		</div>
+		<!-- copyright -->
+		<div class="colorlibcopy-agile">
+			<p>طراحی شده توسط سایت <a href="https://youcode.ir/" target="_blank">کدنویسی به زبان ساده</a></p>
+		</div>
+		<!-- //copyright -->
+		<ul class="colorlib-bubbles">
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+	<!-- //main -->
+</body>
+</html>
