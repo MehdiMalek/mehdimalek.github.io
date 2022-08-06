@@ -35,7 +35,7 @@
 		</div>
 		<!-- copyright -->
 		<div class="colorlibcopy-agile">
-			<p>طراحی شده توسط سایت <a href="https://youcode.ir/" target="_blank">کدنویسی به زبان ساده</a></p>
+			<p>طراحی شده توسط سایت <a href="https://imlk/" target="_blank">کدنویسی به زبان ساده</a></p>
 		</div>
 		<!-- //copyright -->
 		<ul class="colorlib-bubbles">
